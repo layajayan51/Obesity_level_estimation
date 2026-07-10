@@ -26,7 +26,11 @@ Created plots (countplots, boxplots, violin plots) to highlight trends and assoc
 Summarized findings into clear, actionable points linking lifestyle factors with obesity risk.
 
 
+
+
 🔑 Major Insights
+
+
 Age & Gender: Most participants are ~20 years old; dataset is gender‑balanced, though obesity patterns differ by category.
 
 BMI: Average BMI for obese individuals is above 30.
@@ -45,5 +49,9 @@ Smoking & Alcohol: Non‑smokers dominate; alcohol use mostly occasional, heavy 
 
 Transportation: Automobile use dominates, reinforcing sedentary patterns.
 
+
+
 🎯 Key Takeaway
+
+
 Obesity outcomes are shaped primarily by lifestyle behaviors — diet quality, hydration, physical activity, screen time, and transport choices — rather than demographics alone. Preventive strategies should focus on promoting active lifestyles, adequate hydration, reduced high‑calorie food intake, and awareness of sedentary risks.
